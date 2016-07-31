@@ -9,4 +9,5 @@ Demo For regular browsers (not IE) - JS (24Kb)
 ## TODO
 
 - restore tests
+- configure Travis Build
 - ...
